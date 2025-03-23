@@ -1,0 +1,20 @@
+# Environment variables
+.env
+.env.test
+.env.local
+.env.*.local
+
+# IDE files
+.idea/
+.vscode/
+
+# Binaries and test files
+*.exe
+*.test
+*.prof
+/bin/
+/vendor/
+/coverage/
+
+# Go specific
+*.out
